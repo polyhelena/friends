@@ -1,0 +1,36 @@
+.navbar{
+    background-color:rgb(240, 225, 204);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a{
+  color: black;  
+}
+
+h5{
+    text-align: center;
+}
+
+.card{
+    background-color: rgb(240, 225, 204);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.carrosel{
+    height: 250px;
+}
+
+.btn{
+    color: rgb(26, 19, 8);
+    background-color: rgb(227, 208, 182);
+    border-color: black;
+}
+
+.musica{
+    text-align: center;
+    background-color: rgb(240, 225, 204);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navbar-brand{
+    color: rgb(219, 73, 33);  
+}
